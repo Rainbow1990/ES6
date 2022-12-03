@@ -1,0 +1,10 @@
+const uppercaseString = (string) => {
+    return string.toUpperCase();
+  }
+  
+   const lowercaseString = (string) => { 
+  }
+  
+  export {
+    uppercaseString, lowercaseString
+  };
